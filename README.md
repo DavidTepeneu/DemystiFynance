@@ -8,17 +8,17 @@
 
 ## MVP :trophy:
 
-- Google Chrome Extension!!!!!!
-- On highlight, explains financial advice terms for the user easily
+- Google Chrome Extension!
+- When the user highlights text, it explains the concept in simple terms
 - Uses AI to analyze the context around the term for better understanding
 - After initial translation,
-  - use API’s to translate or to simplify into easier English
-  - Text To Speech? 
+  - use APIs to translate or to simplify into easier English
   <br> <br> <br>
 
 ## Stretch Goals :hourglass_flowing_sand:
 
-- TBD
+- Support for many languages
+- More customization options
   <br> <br> <br>
 
 ## Tech Stack
