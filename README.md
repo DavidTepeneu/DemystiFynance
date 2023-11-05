@@ -66,7 +66,7 @@
 
 ## Meet the next Steve Jobs' of our generation at their pre-Hackathon Sleepover Slumberjam
 <p align="center">
-Harper Wood & Kacie Yee & David Tepeneu & Viet Vu
+Harper Wood, Kacie Yee, David Tepeneu, & Viet Vu
 <br> <br>
 
 <p align="center">
